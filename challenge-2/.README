@@ -1,0 +1,9 @@
+Command `terraform fmt` for indentation
+
+Command `terraform init -upgrade` used to update the ".terraform.lock.hcl" file without deleting it
+
+Commanda `terraform apply -var="splunk=8089"` used to overide variable value without changing the code
+
+New files created to use variables
+
+Tags added
